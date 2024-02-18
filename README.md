@@ -47,21 +47,15 @@ Data analysis is done in Excel, and it includes the following steps;
 ### Findings
 
 The analysis results are summarized as follows:
-1. The highest purchase by demographics includes:
-    -By Age group- The Middle Age group (26-50) has the bike purchase
-2. Product Category A is the best-performing category in sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The Middle Age group (26-50), North Americans and professionals have the highest bike purchase, respectively, 
+2. The Male gender has the highest average income
+3. House ownership has no significant impact on bike sales. 
 
 ### Recommendations
 
-Based on the analysis, we recommend the following actions:
-- The highest purchase by demographics includes:
-    -By Age group- The Middle Age group has the 
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+Based on the analysis, it is recommended that the following actions should be taken:
+- Target marketing efforts towards the middle-aged demographic (26-50 age group), North American regions, and professional occupations, as they exhibit the highest bike purchase propensity.
+- Focus marketing and product development strategies towards the male demographic, considering their higher average income and potential purchasing power.
+- Recognise that house ownership does not significantly influence bike sales, suggesting that marketing efforts should not heavily rely on this demographic variable.
 
-### Limitations
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
-
-### References
