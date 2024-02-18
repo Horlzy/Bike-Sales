@@ -11,6 +11,8 @@ A Walkthrough of Bikes Sales Analysis
 ---
 
 This data analysis project aims to provide insights into the bike company's sales performance by demographic over the past year. Through thorough analysis of buyer data, we aim to identify trends, offer data-driven recommendations, and understand sales performance using demographic KPIs.
+![dashboard](https://github.com/Horlzy/Bike-Sales/assets/74312225/9571b844-7fa5-4604-8e43-6bfbc295ea85)
+
 
 ### Data Sources
 
