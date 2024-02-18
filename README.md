@@ -14,7 +14,7 @@ This data analysis project aims to provide insights into the bike company's sale
 
 ### Data Sources
 
-Bike Buyers Data: The primary dataset used for this analysis is the ["Excel Data Set.xlsx"](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) file, containing detailed information about each customer`s demographics.
+Bike Buyers Data: The primary dataset used for this analysis is the ["Excel Data Set.xlsx"](https://github.com/Horlzy/Bike-Sales/blob/main/Excel%20Project%20Dataset.xlsx) file, containing detailed information about each customer`s demographics.
 
 ### Tools
 
